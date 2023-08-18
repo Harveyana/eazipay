@@ -1,0 +1,14 @@
+
+@font-face {
+    font-family: 'mellow';
+    src: url('/assets/made_mellow/MADEMellowPERSONALUSE-Regular.otf')  format('opentype')
+}
+
+@font-face {
+  font-family: 'aeonik';
+  src: url('/assets/Aeonik/AeonikTRIAL-Regular.otf')  format('opentype')
+}
+
+Body {
+  background-color: white;
+}
