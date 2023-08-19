@@ -1,5 +1,5 @@
 <template>
-    <section class="CTA2 hidden lg:flex flex-col items-start justify-start h-[40rem] md:h-136 lg:h-155 px-4 md:px-12 lg:px-20 bottom-40 relative">
+    <section class="CTA2 hidden lg:flex flex-col items-start justify-start h-[40rem] md:h-136 lg:h-155 px-4 md:px-12 lg:px-20 relative">
     <div class="CTA flex flex-col items-start justify-start h-full w-full mt-12 lg:mt-28 space-y-4">
         <h2 class="CTA-TITLE text-5xl lg:text-6xl text-black font-bold md:max-w-sm lg:max-w-md">Free forever for your <span class="text-eazipeach">salary payment</span></h2>
 

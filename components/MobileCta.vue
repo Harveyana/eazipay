@@ -1,5 +1,5 @@
 <template>
-    <section class="CTA2 lg:hidden  flex flex-col items-start justify-start h-[42rem] bottom-40 relative">
+    <section class="CTA2 lg:hidden  flex flex-col items-start justify-start h-[42rem] relative">
     <div class="CTA flex flex-col items-start justify-start h-full mt-12 space-y-4 px-4 md:px-48">
         <img src="/ad.svg" class="h-[20rem] w-[20rem]" alt="Avatar" />
         <h2 class="CTA-TITLE text-5xl lg:text-6xl text-black font-bold md:max-w-sm lg:max-w-md">Free forever for your <span class="text-eazipeach">salary payment</span></h2>

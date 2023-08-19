@@ -1,5 +1,5 @@
 <template>
-    <section class="FORM-SECTION bg-white flex flex-col items-center justify-start h-[50rem] bottom-48 lg:bottom-[20rem] py-8 lg:py-24 relative z-10">
+    <section class="FORM-SECTION bg-white flex flex-col items-center justify-start h-[50rem] py-8 lg:py-24 relative z-10">
 
 <div class="container flex flex-col lg:flex-row items-center justify-center w-[100%] md:w-[80%] md:mt-12 lg:mt-8  space-y-8 lg:space-y-0">
 

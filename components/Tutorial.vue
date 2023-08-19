@@ -101,6 +101,8 @@
 
 </script>
 <style scoped>
+
+
  .MOBILE-SCREEN{
     background-image: url('/BG.svg');
     background-size: contain;
@@ -129,6 +131,7 @@
     background-repeat: no-repeat;
 } */
 .TUTORIAL{
-    overflow-x:hidden
+    overflow-x: hidden;
+    margin-bottom: -9rem;
 }
 </style>

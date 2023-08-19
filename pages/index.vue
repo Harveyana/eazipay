@@ -1,5 +1,5 @@
 <template>
-<section class="HERO-SECTION bg-white flex flex-col items-start justify-start h-[40rem] md:h-136 lg:h-155 px-4 md:px-12 lg:px-20 -z-10">
+<section class="HERO-SECTION bg-white w-screen flex flex-col items-start justify-start h-[40rem] md:h-136 lg:h-155 px-4 md:px-12 lg:px-20 -z-10" style="border: 1px solid black;">
 
     <header class="NAVBAR flex flex-row flex-nowrap items-center justify-between lg:justify-around w-full h-24">
         <img src="/logo.svg" alt="Site logo" class="w-1/7 block "/>
@@ -74,16 +74,16 @@
 
 </section>
 <!--  -->
-<Tutorial/>
+<Tutorial style="border: 1px solid black;"/>
 <!--  -->
-<MobileCta/>
+<MobileCta style="border: 1px solid black;"/>
 <!--  -->
-<DextopCta2/>
+<DextopCta2 style="border: 1px solid black;"/>
 <!--  -->
-<FormSection/>
+<FormSection style="border: 1px solid black;"/>
 <!--  -->
-<footer class="relative lg:bottom-[18rem]" style="border:1px solid gray;">
-    <div class="Footer flex flex-col md:flex-row space-y-4 md:space-x-12 lg:space-x-24 px-4 md:px-10 lg:px-28 py-8">
+<footer class="relative " style="border:1px solid gray;">
+    <div class="Footer flex flex-col items-start justify-start md:items-center md:justify-center md:flex-row space-y-4 md:space-x-12 lg:space-x-24 px-4 md:px-10 lg:px-28 py-8">
         <div class="Group1 flex flex-col  space-y-4 md:space-y-8">
             <img src="/logo.svg" alt="Site logo" class=" w-36 md:w-1/7 block "/>
             <h5 class="CTA-SUBTITLE text-xs text-black ">
